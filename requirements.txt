@@ -1,0 +1,6 @@
+ollama
+streamlit
+pandas
+loguru
+python-dotenv
+gradio
